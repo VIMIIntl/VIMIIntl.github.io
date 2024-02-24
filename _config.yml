@@ -21,9 +21,9 @@ title      : Volunteers in Mission International
 email      : your-email@example.com #this is also the email contact forms will go to
 description: "Volunteers in Mission is a 501c3 (non-profit) organization that organizes mission trips from U.S.-based churches to churches in international destinations, especially in the Philippines."
 author     : Your Name
-# logo:     #optional, defaults to site title
-  # path: assets\img\clients\creative-market.jpg
-  # height: 60 #height in px, defaults to 52px
+logo:
+  path: assets\img\vimi-logo.png
+  height: 60 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 
