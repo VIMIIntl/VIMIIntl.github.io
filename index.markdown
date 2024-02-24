@@ -6,3 +6,6 @@ layout: home
 ---
 
 Welcome to Volunteers in Mission International
+
+![IMG_5928](https://github.com/VIMIIntl/VIMIIntl.github.io/assets/14047327/50599e9e-5168-46e8-98cf-05b88efe3520)
+
