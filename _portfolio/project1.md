@@ -1,17 +1,17 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/02-full.jpg
+title: 2024 Palawan Mission Trip
+subtitle: Our mission trip to Palawan in 2024
+image: assets/img/hero.jpg
 alt: Keep Exploring
 
 caption:
-  title: Explore
+  title: 2024 Palawan Mission Trip
   subtitle: Graphic Design
-  thumbnail: assets/img/portfolio/02-thumbnail.jpg
+  thumbnail: assets/img/hero.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+We enjoyed getting to know this area and its wonderful people.
 
 {:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+- Date: January 2024
+- Country: Philippines
+- Region: Palawan
