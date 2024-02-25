@@ -30,7 +30,7 @@ en: &DEFAULT_EN
         icon: fas fa-handshake
       - title: "Encourage"
         desc: "Therefore encourage one another and build one another up, just as you are doing.<br>- Hebrews 10:25"
-        icon: fa-solid fa-up-long
+        icon: fa-solid fa-arrow-up
 
   portfolio:
     title: "Projects"
