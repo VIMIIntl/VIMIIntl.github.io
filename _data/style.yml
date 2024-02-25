@@ -1,8 +1,8 @@
 #Color Customization
-#highlight: "#54bfff"
-#white: "#FF0000"
-#black: "#000"
+# highlight: "#54bfff"
+# white: "#FF0000"
+# black: "#000"
 
 header-image: "/assets/img/hero.jpg"
-# contact-image: "../img/map-image.png"
+contact-image: "../img/map-image.png"
 
