@@ -1,13 +1,13 @@
 ---
 title: 2023 Philippines Mission Trip
 subtitle: Our mission trip on 2023in the Philippines
-image: assets/img/hero.jpg](https://github.com/VIMIntl/VIMIntl.github.io/assets/14047327/bac83a3e-f9c7-4032-a291-d27d361dfb0e)
+image: https://github.com/VIMIntl/VIMIntl.github.io/assets/14047327/98239a5b-763e-494c-bbbc-3cba16f84e57
 alt: Keep Exploring
 
 caption:
   title: 2023 Mission trip
   subtitle: Graphic Design
-  thumbnail: assets/img/hero.jpg](https://github.com/VIMIntl/VIMIntl.github.io/assets/14047327/bac83a3e-f9c7-4032-a291-d27d361dfb0e)
+  thumbnail: https://github.com/VIMIntl/VIMIntl.github.io/assets/14047327/98239a5b-763e-494c-bbbc-3cba16f84e57
 ---
 Ministries that were included:
 - Medical
