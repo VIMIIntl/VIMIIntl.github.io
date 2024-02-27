@@ -45,6 +45,13 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
+      - title: "Lakewood UMC, Lipa Batangas and Cansinala CC"
+        year: "2024"
+        desc: "Upcoming mission trip."
+        # image: assets/img/timeline/2023-baptism.jpg
+        alt:
+        # you can enforce the alignment
+        align: right
       - title: "Philippines Mission Trip"
         year: "2023"
         desc: "Philippines Mission Trip"
