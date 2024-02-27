@@ -53,7 +53,7 @@ en: &DEFAULT_EN
       - title: "Founding as a self-contained entity"
         year: "2023"
         desc: "Volunteers in Mission International was formed as its own 501(c)3 non-profit."
-        image: assets/img/timeline/baptism.jpg
+        image: assets/img/timeline/2023-baptism.jpg
         alt:
         # you can enforce the alignment
         align: right
