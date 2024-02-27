@@ -10,8 +10,8 @@ caption:
   thumbnail: https://github.com/VIMIntl/VIMIntl.github.io/assets/14047327/98239a5b-763e-494c-bbbc-3cba16f84e57
 ---
 Ministries that were included:
-- Medical
-- Sewing
+Medical
+Sewing
 
 {:.list-inline}
 - Date: May 2023
