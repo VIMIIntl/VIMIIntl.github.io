@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Volunteers in Mission International
-    text: Creating opportunities for Christian service at home and around the world.
+    title: Creating opportunities for Christian service at home and around the world
+    text: Volunteers in Mission International
     button: Tell Me More
     buttonlink: "#focus"
 
