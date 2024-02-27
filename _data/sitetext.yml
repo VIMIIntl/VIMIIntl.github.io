@@ -48,12 +48,12 @@ en: &DEFAULT_EN
       - title: "Philippines Mission Trip"
         year: "2023"
         desc: "Philippines Mission Trip"
-        image: https://github.com/VIMIntl/VIMIntl.github.io/assets/14047327/98239a5b-763e-494c-bbbc-3cba16f84e57
+        image: assets/img/timeline/2023-sewing-ministry.jpg
         alt: 2023 VIMI Philippines Mission trip
       - title: "Founding as a self-contained entity"
         year: "2023"
         desc: "Volunteers in Mission International was formed as its own 501(c)3 non-profit."
-        image: https://github.com/VIMIntl/VIMIntl.github.io/assets/14047327/d055fd91-84c2-4b11-af2b-e2f8b02e7cba
+        image: assets/img/timeline/baptism.jpg
         alt:
         # you can enforce the alignment
         align: right
