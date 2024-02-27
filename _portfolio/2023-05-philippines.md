@@ -18,3 +18,5 @@ Sewing
 - Country: Philippines
 - Region:
 
+![2023-baptism](https://github.com/VIMIntl/VIMIntl.github.io/assets/14047327/d055fd91-84c2-4b11-af2b-e2f8b02e7cba)
+Baptism
