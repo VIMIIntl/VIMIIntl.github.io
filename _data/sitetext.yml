@@ -69,7 +69,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "Volunteers in Mission started as a group within the United Methodist Church. In 2023, we formed our own non profit organization so that we could serve with all Christians around the world."
     section: about
 
   # clients:
