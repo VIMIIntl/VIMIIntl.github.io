@@ -21,7 +21,7 @@ $(function() {
       
 	  var url = `mailto:{{ site.email }}?subject=${subject}&body=${body}`;
 
-      window.open(url)
+      window.location.href=url
     },
     filter: function() {
       return $(this).is(":visible");
