@@ -17,9 +17,9 @@ $(function() {
       var message = $("textarea#message").val();
       var name = $("input#name").val();
 
-      var body = encodeURIComponent(`Name: ${name}\nPhone Number: ${phone}\n\nMessage:\n${message}`)
+      var body = encodeURIComponent(`Name: ${name}\nEmail: ${email}\nPhone Number: ${phone}\n\nMessage:\n${message}`)
       
-	  var url = `mailto:${email}?subject=${subject}&body=${body}`;
+	  var url = `mailto:{{ site.email }}?subject=${subject}&body=${body}`;
 
       window.open(url)
     },
